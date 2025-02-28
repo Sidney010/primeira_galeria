@@ -1,7 +1,7 @@
 # primeira_galeria
 ## Projeto
-Minha segunda pagina Web, criado durante a diciplina de Lingadem de Marcação do curso na escola SENAI Jandira
-Receita de bolo de fubá
+Minha terceira pagina Web, criado durante a diciplina de Lingadem de Marcação do curso na escola SENAI Jandira
+Primeira Galeria
 ## Tecnologias
 * HTML
 * CSS
